@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_tutorial/screens/auth/login_page.dart';
-import 'package:flutter_tutorial/screens/home_page.dart';
+import 'package:flutter_tutorial/screens/pages/home_page.dart';
 import 'package:google_fonts/google_fonts.dart';
 import '../../constant/color.dart';
 
